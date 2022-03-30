@@ -1,3 +1,9 @@
+/*
+* 0-heron.c
+* Author: Ntuthuko Mashinini
+* Date: March 30, 2022
+*/
+
 #include <math.h>
 #include "heron.h"
 
